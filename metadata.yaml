@@ -1,0 +1,30 @@
+_repo: Margaret-VincentA-Novel_39865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clifford, W. K., Mrs.
+    aliases:
+    - Clifford, Mrs. W. K.
+    - Clifford, Lucy Lane
+    deathdate: 1929
+    gutenberg_agent_id: '34477'
+    url: http://www.gutenberg.org/2009/agents/34477
+description: Also published under the title "Woodside Farm".
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Country life -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: 'Margaret Vincent: A Novel'
+url: http://www.gutenberg.org/ebooks/39865
