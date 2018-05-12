@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '34477'
     url: http://www.gutenberg.org/2009/agents/34477
 description: Also published under the title "Woodside Farm".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39865#Margaret-VincentA-Novel
 gutenberg_issued: '2012-06-01'
 gutenberg_type: Text
 identifiers:
